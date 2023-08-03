@@ -11,3 +11,6 @@ Frontend Developer @ HashtoColon Systems Private Limited · Internship
 
 ### Projects
 College recommendation system based on rank of the student
+
+### Contact
+email:joeldmello1998@gmail.com
