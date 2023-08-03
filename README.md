@@ -13,6 +13,7 @@ Shri Madhwa Vadiraja Institute of Technology & Management, Bantakal, Karnataka, 
 Frontend Developer @ HashtoColon Systems Private Limited · Internship
 -From Sep 2021 To Oct 2021 · 2 months
 -Bengaluru South, Karnataka, India · HybridBengaluru South, Karnataka, India · Hybrid
+![hashtocolon](https://github.com/Joeldmello1998github/joeldmello1998.github.io/assets/102612314/c91f4f4e-f895-4f50-b170-aad6ec9961e6)
 
 ### Projects
 College recommendation system based on rank of the student
