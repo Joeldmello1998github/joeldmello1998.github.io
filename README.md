@@ -6,6 +6,7 @@ BE, Computer Science engineering
 
 ### College
 Shri Madhwa Vadiraja Institute of Technology & Management, Bantakal, Karnataka, Udupi
+![college](https://github.com/Joeldmello1998github/joeldmello1998.github.io/assets/102612314/14c2212e-a4c0-459b-821d-9f75bae4d33f)
 
 #### Technical Skills: HTML · HTML5 · Cascading Style Sheets (CSS) · Bootstrap · JavaScript
 
