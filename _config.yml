@@ -1,5 +1,5 @@
 title: Joel Dmello
 logo: assets/profile.jpg
 description: Hello
-show_downloads: true
+#show_downloads: true
 theme: jekyll-theme-minimal
