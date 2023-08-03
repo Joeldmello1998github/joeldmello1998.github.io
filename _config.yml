@@ -1,5 +1,5 @@
 title: Joel Dmello
-#logo: /assets/img/headshot_circle.png
-#description: text below image
-#show_downloads: true
+logo: assets/profile.jpg
+description: Hello
+show_downloads: true
 theme: jekyll-theme-minimal
