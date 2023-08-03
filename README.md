@@ -3,6 +3,9 @@
 ### Education
 BE, Computer Science engineering 
 
+### College
+Shri Madhwa Vadiraja Institute of Technology & Management, Bantakal, Karnataka, Udupi
+
 #### Technical Skills: HTML · HTML5 · Cascading Style Sheets (CSS) · Bootstrap · JavaScript
 
 ### Work Experience
